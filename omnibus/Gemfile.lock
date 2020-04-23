@@ -18,8 +18,8 @@ GIT
 
 GIT
   remote: https://github.com/chef/omnibus-software
-  revision: 9b8f0d93b99395d91be29dea3f33f94cfa5a8633
-  branch: master
+  revision: 588b9396013657482c76791b7b5c646a089c29c6
+  branch: jsinha/msys2_updt
   specs:
     omnibus-software (4.0.0)
       omnibus (>= 5.6.1)
